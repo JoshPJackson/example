@@ -13,3 +13,7 @@ static int quad(int base) {
 static int five(int base) {
     base * base * base
 }
+
+static int six(int base) {
+    trolley
+}
