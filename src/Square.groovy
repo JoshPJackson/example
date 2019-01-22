@@ -9,3 +9,7 @@ static int cube(int base) {
 static int quad(int base) {
     base * base * base * base;
 }
+
+static int five(int base) {
+    base * base * base
+}
